@@ -1,0 +1,7 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://.*",
+  "name" : "HTTP",
+  "id" : 10000003,
+  "description" : "Generic service that allows any http URLs that wish to register"
+}
